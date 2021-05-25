@@ -1,0 +1,16 @@
+body {
+    background-color: crimson;
+    color: azure;
+}
+
+
+#one {
+    width: 250;
+    height: 250;
+}
+
+#two {
+    width: 250;
+    height: 250;
+    margin-left: 500px;
+}
